@@ -1,0 +1,2 @@
+GET http://eu.httpbin.org/cache - 200 (Saved to Cache)
+GET http://eu.httpbin.org/cache - 304 (Cache Hit)

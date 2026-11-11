@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Thu, 01 Oct 2026 22:19:45 GMT
+Content-Type: application/json
+Content-Length: 301
+Connection: close
+Server: gunicorn/19.9.0
+Last-Modified: Thu, 01 Oct 2026 22:19:45 GMT
+ETag: d1f943e23bf44d2f84b92ba1af0b7223
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+
+{
+  "args": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Host": "eu.httpbin.org", 
+    "Proxy-Connection": "Keep-Alive", 
+    "User-Agent": "curl/8.21.0", 
+    "X-Amzn-Trace-Id": "Root=1-6abedc81-0ebf062d6edc6c77236bec87"
+  }, 
+  "origin": "92.114.54.134", 
+  "url": "http://eu.httpbin.org/cache"
+}
